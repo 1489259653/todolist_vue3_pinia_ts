@@ -1,6 +1,6 @@
 # todolist
 
-This template should help get you started developing with Vue 3 in Vite.
+尚硅谷的Vue2教程里todolist项目，挺好看的 我就学完pinia 把他做成vue3的了inputTitle那里可能会飘红 不影响功能实现
 
 ## Recommended IDE Setup
 
